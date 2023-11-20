@@ -1,0 +1,51 @@
+withdraw - matic
+withdraw - matic
+withdraw - matic
+withdraw - matic
+154:0054_matic_matic:14.921 completed
+155:0055_matic_matic:14.977 completed
+156:0056_matic_matic:15.063 completed
+157:0057_matic_matic:15.015 completed
+158:0058_matic_matic:15.087 completed
+159:0059_matic_matic:15.085 completed
+160:0060_matic_matic:14.973 completed
+161:0061_matic_matic:14.946 completed
+162:0062_matic_matic:15.09 completed
+163:0063_matic_matic:15.072 completed
+164:0064_matic_matic:14.932 completed
+165:0065_matic_matic:15.054 completed
+166:0066_matic_matic:15.08 completed
+167:0067_matic_matic:15.076 completed
+168:0068_matic_matic:14.99 completed
+169:0069_matic_matic:15.052 completed
+170:0070_matic_matic:14.92 completed
+171:0071_matic_matic:14.925 completed
+172:0072_matic_matic:15.093 completed
+173:0073_matic_matic:15.055 completed
+174:0074_matic_matic:14.936 completed
+175:0075_matic_matic:15.03 completed
+176:0076_matic_matic:14.997 completed
+177:0077_matic_matic:14.957 completed
+178:0078_matic_matic:15.016 completed
+179:0079_matic_matic:15.003 completed
+180:0080_matic_matic:14.992 completed
+181:0081_matic_matic:15.047 completed
+182:0082_matic_matic:15.079 completed
+183:0083_matic_matic:14.996 completed
+184:0084_matic_matic:15.025 completed
+185:0085_matic_matic:15.041 completed
+186:0086_matic_matic:14.904 completed
+187:0087_matic_matic:15.053 completed
+188:0088_matic_matic:14.946 completed
+189:0089_matic_matic:15.092 completed
+190:0090_matic_matic:15.006 completed
+191:0091_matic_matic:15.065 completed
+192:0092_matic_matic:14.995 completed
+193:0093_matic_matic:14.942 completed
+194:0094_matic_matic:14.923 completed
+195:0095_matic_matic:14.974 completed
+196:0096_matic_matic:15.065 completed
+197:0097_matic_matic:14.916 completed
+198:0098_matic_matic:14.928 completed
+199:0099_matic_matic:14.98 completed
+200 withdraw failed
